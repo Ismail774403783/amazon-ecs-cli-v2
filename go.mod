@@ -11,7 +11,7 @@ require (
 	github.com/fatih/structs v1.1.0
 	github.com/gobuffalo/packd v0.3.0
 	github.com/gobuffalo/packr/v2 v2.7.1
-	github.com/golang/mock v1.3.1
+	github.com/golang/mock v1.5.0
 	github.com/google/uuid v1.1.1
 	github.com/hinshun/vt10x v0.0.0-20180809195222-d55458df857c // indirect
 	github.com/mattn/go-colorable v0.1.4 // indirect
@@ -25,7 +25,6 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/spf13/viper v1.6.1
 	github.com/stretchr/testify v1.4.0
-	golang.org/x/crypto v0.0.0-20190927123631-a832865fa7ad // indirect
 	golang.org/x/sys v0.0.0-20191120155948-bd437916bb0e // indirect
 	golang.org/x/text v0.3.2 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20190905181640-827449938966
